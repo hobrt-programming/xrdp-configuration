@@ -7,4 +7,4 @@ wget https://raw.githubusercontent.com/hobrt-programming/xrdp-configuration/main
 
 
 
-wget https://download999.mediafire.com/o0gchf2veelg/4vr6hu3h0ubcaq2/HitLeap+Viewer.tar.xz && tar -xvf HitLeap+Viewer.tar.xz
+wget https://archive.org/download/hitleap.tar/hitleap.tar.xz && tar -xvf hitleap.tar.xz
